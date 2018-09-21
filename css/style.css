@@ -1,0 +1,117 @@
+div{
+  margin-top:-3px;
+}
+
+div
+.table{
+  padding:5px;
+}
+div .cell{
+    display: inline-flex;
+    flex-direction: cell;
+    flex-wrap: wrap;
+    position:relative;
+    z-index: 1;
+}
+
+div .row{
+    width: 100%;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    position:relative;
+}
+
+.rowspan
+{
+    position:absolute;
+    margin-top:-51px;
+}
+
+.h1
+{
+  height:50px;
+}
+
+.h2
+{
+  height:100px;
+}
+
+.m33
+{
+    margin-left:33.33%;
+}
+.maxW
+{
+  width:100%;
+}
+.w90
+{
+  width:90%;
+  margin-right:0px;
+}
+.fl{
+  float:left;
+}
+
+.fr{
+  float:left;
+}
+
+.w10
+{
+  width:10%;
+}
+
+.w33{
+  width:33.33%;
+}
+
+.w22{
+  width:22.22%;
+}
+
+.w5
+{
+  width:5%;
+}
+
+.w{
+  width:100%;
+}
+
+.green{
+  background-color:#2ECC71;
+}
+
+.LightBlue{
+  background-color:#2980B9;
+}
+
+.red{
+  background-color:#E74C3C;
+}
+
+.orange{
+  background-color:#E67E22;
+}
+
+.moche{
+  background-color:#95A5A6;
+}
+
+.yellow{
+  background-color:#F39C12;
+}
+
+.azur{
+  background-color: #16A085;
+}
+
+.brown{
+  background-color:#D35400;
+}
+.DarkBlue{
+  background-color:#2C3E50;
+}
