@@ -1,5 +1,5 @@
 div{
-  margin-top:-3px;
+  margin-top:-1px;
 }
 
 div
@@ -20,6 +20,7 @@ div .row{
     flex-direction: row;
     flex-wrap: wrap;
     position:relative;
+    margin-top:-3px;
 }
 
 .rowspan
